@@ -1,0 +1,6 @@
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP1\UP1\bin\Debug\UP1.exe.config
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP1\UP1\bin\Debug\UP1.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP1\UP1\bin\Debug\UP1.pdb
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP1\UP1\obj\Debug\UP1.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP1\UP1\obj\Debug\UP1.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP1\UP1\obj\Debug\UP1.pdb
